@@ -174,6 +174,8 @@ Places, locations, times, or environmental contexts where the story occurs.
 
 **Include:** NEW place changes in Stage 2, new locations, time markers
 
+**Setting Coding Rule:** Locations coded as separate setting elements only when they represent NEW locations not shown or clearly implied in the picture stimulus or Stage 1. Directional phrases that reference locations already established in pictures or Stage 1 (e.g., 'into the water' when fishing by water) are integrated into action elements.
+
 **Note:** If Stage 1 established "beach" setting, and child continues story at beach in Stage 2, do NOT count beach again unless they leave and return.
 
 ---
